@@ -1,0 +1,37 @@
+[
+    {
+      "title" : "TS18",
+      "subtitle" : "E10.5",
+      "checked" : false
+    },
+    {
+      "title" : "TS19",
+      "subtitle" : "E11.5",
+      "checked": false
+    },
+    {
+      "title" : "TS20",
+      "subtitle" : "E12.5",
+      "checked": true
+    },
+    {
+      "title" : "TS21",
+      "subtitle" : "E13.5",
+      "checked": true
+    },
+    {
+      "title" : "TS22",
+      "subtitle" : "E14.5",
+      "checked": false
+    },
+    {
+      "title" : "TS23",
+      "subtitle" : "E15.5",
+      "checked": false
+    },
+    {
+      "title" : "TS24",
+      "subtitle" : "E15.5",
+      "checked": false
+    }
+  ]
